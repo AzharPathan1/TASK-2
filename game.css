@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(67, 244, 226, 0.347);
+}
+#container{
+    background-color: rgb(50, 50, 48);
+    border: 5px solid black;
+    height: 275px;
+    width: 750px;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    top: 120px;
+}
+p{
+    color: white;
+    font-size: 25px;
+}
+#inputtext{
+    width: 100px;
+    margin: 25px auto;
+}
+#btn{
+    margin: 25px auto;
+}
